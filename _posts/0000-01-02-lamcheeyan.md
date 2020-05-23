@@ -2,5 +2,9 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
-Use the left arrow to go back!
+Mag's sample slide
+Miaow
+Woof
+Moo
+Boo
+Hoo!
